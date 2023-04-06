@@ -1,0 +1,15 @@
+class Moped
+Sc
+6
+Unknown0
+0.0
+Unknown1
+0.0
+NewModel
+100.0
+Model1
+999.0
+Model2
+2000.0
+Model3
+23000.0
